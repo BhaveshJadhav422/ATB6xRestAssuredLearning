@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/jadha/IdeaProjects/ATB6xRestAssuredLearning">
+        <classes>
+            <class name="org.example.testing.Lab252">
+                <methods>
+                    <include name="getrequest"/>
+                    <include name="getrequest2"/>
+                    <include name="getrequest3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
